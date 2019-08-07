@@ -1,6 +1,5 @@
 # Tindev
-
-![OmniStack](https://raw.githubusercontent.com/kenjiyamamoto/Tindev/master/readme.png){style="display:block;margin:0 auto"}
+<img src="https://raw.githubusercontent.com/kenjiyamamoto/Tindev/master/readme.png" alt="OmniStack" style="display: block; margin: 0 auto" />
 
 ## Semana Omnistack 8.0 - Treinamento Rocketseat
 
